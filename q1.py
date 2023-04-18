@@ -45,4 +45,4 @@ else:
 
 print("making some changes")
 
-print("Now altering the values in remore github repository")
+print("Now altering the values in remote github repository")
