@@ -41,3 +41,6 @@ for point in l1:
         break
 else:
     print("The four points are on the same circle.")
+
+
+print("making some changes")
